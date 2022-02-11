@@ -61,9 +61,6 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 
 <a href="https://github.com/alexbennycodes/github-readme-activity-graph"><img alt="Alex Benny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alexbennycodes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-
 ## Connect with me:
 
 <p align="left">
@@ -72,10 +69,3 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <a href = "https://twitter.com/alexbennytwts"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=alexbennycodes">
-</a>
-<a href="https://github.com/alexbennycodes?tab=followers"><img src="https://img.shields.io/github/followers/alexbennycodes?label=Followers&style=social" alt="GitHub Badge"></a>
