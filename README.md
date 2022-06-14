@@ -2,7 +2,9 @@
 
 ![header-image](.//header_white_.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px">, I'm Alex Benny</h1>
+<h1 align="center">Hi 
+<!--  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px"> -->
+ , I'm Alex Benny</h1>
 <h3 align="center">I'm a passionate Front End Web Developer & Graphic Designer from India.</h3>
 
 ## 🙋‍♂️ About Me
