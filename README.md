@@ -2,14 +2,14 @@
 
 ![header-image](.//header_white_.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alex Benny</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px">, I'm Alex Benny</h1>
 <h3 align="center">I'm a passionate Front End Web Developer & Graphic Designer from India.</h3>
 
 ## 🙋‍♂️ About Me
 <!-- 
 - 🔭 I’m currently working on **[Wordle Clone](https://alexbennycodes.github.io/wordle-clone/)**
  -->
-- 🔭 I’m currently working on **[FindMyCountry](https://alexbennycodes.github.io/find-my-country/)**
+- 🔭 I’m currently working on **[WorldAlmanac](https://alexbennycodes.github.io/find-my-country/)**
 
 - 🌱 I’m currently learning **JavaScript and ReactJS**
 
