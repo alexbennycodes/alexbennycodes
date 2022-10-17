@@ -11,7 +11,7 @@
 <!-- 
 - 🔭 I’m currently working on **[Wordle Clone](https://alexbennycodes.github.io/wordle-clone/)**
  -->
-- 🔭 I’m currently working on **[WorldAlmanac](https://alexbennycodes.github.io/world-almanac/)**
+- 🔭 I’m currently working on **[WorldAlmanac](https://world-almanac.vercel.app/)**
 
 - 🌱 I’m currently learning **JavaScript and ReactJS**
 
