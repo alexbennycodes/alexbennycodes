@@ -30,6 +30,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a style="padding-right:8px;" href="https://www.reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos/react.svg" width="48" height="48"/> </a>
+    <a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" width="48" height="48"/> </a>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="nextjs" width="40" height="40"/> </a> 
     <a href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
