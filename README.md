@@ -3,7 +3,7 @@
 Hi 👋 My name is Alex Benny
 ===========================
 
-Frontend React Developer
+Frontend Developer
 ------------------------
 
 *   🌍  I'm based in Delhi, India
