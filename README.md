@@ -3,13 +3,13 @@
 Hi 👋 My name is Alex Benny
 ===========================
 
-Frontend Developer
+Fullstack Developer
 ------------------------
 
 *   🌍  I'm based in Delhi, India
 *   🖥️  See my portfolio at [Portfolio](http://alexbenny.vercel.app)
 *   ✉️  You can contact me at [alexbenny2811@gmail.com](mailto:alexbenny2811@gmail.com)
-*   🧠  I'm learning everthing JavaScript
+*   🧠  I'm learning everything JavaScript
 *   🤝  I'm open to collaborating on interesting projects
   ### Skills 
 <p align="left">
